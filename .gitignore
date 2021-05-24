@@ -1,0 +1,8 @@
+*.obj
+*.manifest
+*.pdb
+*.res
+*.suo
+*.pch
+*Debug/
+*Release/
