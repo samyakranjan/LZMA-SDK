@@ -78,7 +78,7 @@
 			<Tool
 				Name="VCLinkerTool"
 				AdditionalDependencies="odbc32.lib odbccp32.lib comctl32.lib"
-				OutputFile="C:\UTIL\7zSfxS.exe"
+				OutputFile="$(OutDir)\$(ProjectName).Sfx"
 				LinkIncremental="2"
 				SuppressStartupBanner="true"
 				GenerateDebugInformation="true"
