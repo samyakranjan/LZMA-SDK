@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SFXSetup", "SFXSetup.vcproj", "{DCEF4DC5-A8B1-4DE9-A1CD-D238AA5D1302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		ReleaseD|Win32 = ReleaseD|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCEF4DC5-A8B1-4DE9-A1CD-D238AA5D1302}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DCEF4DC5-A8B1-4DE9-A1CD-D238AA5D1302}.Debug|Win32.Build.0 = Debug|Win32
+		{DCEF4DC5-A8B1-4DE9-A1CD-D238AA5D1302}.Release|Win32.ActiveCfg = Release|Win32
+		{DCEF4DC5-A8B1-4DE9-A1CD-D238AA5D1302}.Release|Win32.Build.0 = Release|Win32
+		{DCEF4DC5-A8B1-4DE9-A1CD-D238AA5D1302}.ReleaseD|Win32.ActiveCfg = ReleaseD|Win32
+		{DCEF4DC5-A8B1-4DE9-A1CD-D238AA5D1302}.ReleaseD|Win32.Build.0 = ReleaseD|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
