@@ -176,7 +176,7 @@
 			<Tool
 				Name="VCLinkerTool"
 				AdditionalDependencies="comctl32.lib odbc32.lib odbccp32.lib"
-				OutputFile="C:\Util\7zS.sfx"
+				OutputFile="$(OutDir)\$(ProjectName).Sfx"
 				LinkIncremental="1"
 				SuppressStartupBanner="true"
 				ProgramDatabaseFile=".\Release/7zS.pdb"
