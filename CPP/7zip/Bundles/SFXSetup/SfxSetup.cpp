@@ -322,7 +322,7 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE /* hPrevInstance */,
     appLaunched.Replace(L"%%T", fs2us(tempDirPath));
 
     if (!switches.IsEmpty())
-    {
+   { 
       appLaunched.Add_Space();
       appLaunched += switches;
     }

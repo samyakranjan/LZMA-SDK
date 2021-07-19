@@ -147,7 +147,7 @@
 				Name="VCCLCompilerTool"
 				Optimization="1"
 				InlineFunctionExpansion="1"
-				PreprocessorDefinitions="NDEBUG;WIN32;_WINDOWS;EXTRACT_ONLY;NO_REGISTRY;_SFX;_NO_CRYPTO"
+				PreprocessorDefinitions="NDEBUG;WIN32;_WINDOWS;EXTRACT_ONLY;NO_REGISTRY;_SFX;_NO_CRYPTO;_UNICODE;UNICODE"
 				StringPooling="true"
 				RuntimeLibrary="0"
 				EnableFunctionLevelLinking="true"
